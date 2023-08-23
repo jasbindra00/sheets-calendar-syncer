@@ -1,2 +1,3 @@
-<h1>Seamlessly sync between your Google Sheets Timetable to Google Calendar</h1>
-<h2>The verbosity and flexibilty of sheets, combined with the accessibility and push notifications from calendars. This makes for a very effective time management and tracking tool.</h2>
+<h1>Google Sheets Timetable to Google Calendar Syncer</h1>
+<h3>Seamlessly sync between your Sheets timetable and Calendar day configuration</h3>
+<p>The verbosity and flexibilty of sheets, combined with the accessibility and push notifications from calendars. This makes for a very effective time management and tracking tool.</p>
